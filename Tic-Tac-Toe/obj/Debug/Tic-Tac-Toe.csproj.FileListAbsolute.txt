@@ -1,0 +1,7 @@
+H:\C SHARP ФКАДЕНИЯ 2\15\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+H:\C SHARP ФКАДЕНИЯ 2\15\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+H:\C SHARP ФКАДЕНИЯ 2\15\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+H:\C SHARP ФКАДЕНИЯ 2\15\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+H:\C SHARP ФКАДЕНИЯ 2\15\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+H:\C SHARP ФКАДЕНИЯ 2\15\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+H:\C SHARP ФКАДЕНИЯ 2\15\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
